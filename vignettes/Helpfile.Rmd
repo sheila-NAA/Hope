@@ -1,0 +1,21 @@
+---
+title: "Helpfile"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Helpfile}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+## HEADING
+**Introduction** <br/>
+This functiion was designed to provide a statement inputting a persons name <br/> inside as the x variable. <br/>
+An Example is shown below
+
+
+
+```{r setup}
+library(Hope)
+
+hello("John")
+```
