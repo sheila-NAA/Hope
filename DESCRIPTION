@@ -6,7 +6,7 @@ Author: Sheila Amoafo
 Maintainer: The package maintainer <amoafosheila@outlook.com>
 Description: This package returns a statement with the selected parameter added
     to it.
-License: MIT
+License: GPL-2.0
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
